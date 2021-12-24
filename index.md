@@ -1,5 +1,6 @@
 ---
 layout: default
+title: 人生1.0
 ---
 
 # jgvt5tiのページ
