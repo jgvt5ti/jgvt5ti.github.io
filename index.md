@@ -1,6 +1,5 @@
 ---
 layout: default
-title: 食事と睡眠
 ---
 
 # jgvt5tiのページ
