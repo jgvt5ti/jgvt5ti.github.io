@@ -27,8 +27,6 @@ layout: default
 ## プログラミング言語
 - C++(競プロ)
 - Rust(趣味)
-- Scala(Akka, PlayFramework)
-- TypeScript(React/ReactHooks)
 
 ## 外部リンク
 - [GitHub](https://github.com/jgvt5ti)
