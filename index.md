@@ -17,7 +17,7 @@ layout: default
 ## 資格
 - 応用情報技術者
 - 実用英語技能検定準一級
-- TOEIC Listening & Reading Test 895点
+- TOEIC Listening & Reading Test 930点
 
 ## 興味
 - 理論計算機科学
