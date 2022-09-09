@@ -30,9 +30,11 @@ layout: default
     - PlayFrameWork, Reactの業務経験あり
 
 ## 活動
+- 2018 Freshman's Robot Contest参加
 - 2019 ACM-ICPC 国内予選(495チーム中97位)
 - 2020 ACM-ICPC 国内予選(297チーム中67位)
 - 2022-02 ~ 2022-03 SWE Intern at Monoxer, Inc.
+- 2022-08 ~ 2022-09 SWE Intern at Hatena, Inc.
 
 ## 作品
 - TypeScript+React/ReactHooksで作ったライフゲーム
