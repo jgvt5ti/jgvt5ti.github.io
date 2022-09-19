@@ -14,20 +14,11 @@ layout: default
 - 2022-03 東京工業大学 情報理工学院 数理・計算科学系卒業
 - 2022-04 東京大学大学院 情報理工学系研究科 コンピュータ科学専攻入学
 
-## 資格
+## 能力・資格
 - 応用情報技術者
+- AtCoder [青](https://atcoder.jp/users/jgvt5ti)
 - 実用英語技能検定準一級
 - TOEIC Listening & Reading Test 930点
-
-## 興味
-- 理論計算機科学
-    - Curry-Howard対応
-    - プログラム意味論
-- プログラミング言語
-    - FRPやアクターモデルなどのパラダイム
-    - 定理証明・モデル検査による検証
-- Web開発
-    - PlayFrameWork, Reactの業務経験あり
 
 ## 活動
 - 2018 Freshman's Robot Contest参加
@@ -49,4 +40,4 @@ layout: default
 
 ## 外部リンク
 - [はてなブログ](https://jgvt5ti.hatenablog.com/)
-- [AtCoder](https://atcoder.jp/users/jgvt5ti)
+- [Qiita](https://qiita.com/jgvt5ti)
